@@ -1,0 +1,8 @@
+{
+  "name": "SSBE - Sevn School of Business and Entrepreneurship",
+  "description": "Alternative Provision in Walsall supporting young people through trauma-informed education, business enterprise, and vocational pathways.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
